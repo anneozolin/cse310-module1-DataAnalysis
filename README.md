@@ -6,7 +6,7 @@ The dataset analyzed in this project was obtained from Kaggle. It contains infor
 
 The purpose of writing this software was to conduct a thorough analysis of the dataset, answer specific questions about the factors influencing house prices, and build a linear regression model to predict property values based on selected features. This project also serves as a practical exercise in data manipulation, visualization, and predictive modeling.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/J6bc6Q80Yro)
 
 # Data Analysis Results
 
